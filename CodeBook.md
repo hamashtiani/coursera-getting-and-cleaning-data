@@ -3,7 +3,7 @@ Code Book:
 This book contains the list of variables in the tidy dataset meandata.txt.
 
 ID: assigns a number between 1 to 30 for the 30 individuals that partook in the study.
-activity: refers to the the 6 activities that each individual was recorded for walking, walking upstairs, walking downstairs, sitting, standing, and laying.
+activity: refers to the the 6 activities that each individual was recorded for walking (1), walking upstairs (2), walking downstairs (3), sitting (4), standing (5), and laying (6).
 
 The following variables are all the measurements for the study. Notice that only the mean and standard deviation variables are present:
 
